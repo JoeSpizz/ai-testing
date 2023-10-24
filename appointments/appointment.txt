@@ -1,0 +1,8 @@
+ {
+    "name": "Frankie",
+    "Appointment_Day": "Saturday",
+    "appointment_time": "2 pm",
+    "hair_cut_type": "Fashionista cut",
+    "extra_services": ["massage"]
+  }
+JSON COMPLETE.
